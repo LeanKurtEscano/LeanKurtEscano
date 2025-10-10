@@ -220,11 +220,6 @@ Brief description of what the project does and the problem it solves. Highlight 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeanKurtEscano&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=FFFFFF&hide_border=true" alt="Activity Graph"/>
 
-<br>
-
-### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=LeanKurtEscano&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
-
 </div>
 
 ---
@@ -234,21 +229,6 @@ Brief description of what the project does and the problem it solves. Highlight 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeanKurtEscano&custom_title=Contribution%20Graph&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
-
-| 🌱 Learning | 🔨 Building | 🎯 Goals |
-|-------------|-------------|----------|
-| Advanced RAG Systems | AI-Powered Apps | Contribute to Open Source |
-| LangChain Mastery | Mobile Development | Build Production Apps |
-| System Design | Full-Stack Projects | Master AI Integration |
-| DevOps Practices | Portfolio Website | Land Tech Internship |
 
 </div>
 
