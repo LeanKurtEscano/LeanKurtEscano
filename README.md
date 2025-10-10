@@ -6,9 +6,9 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=BSIT+Student+%40+Laguna+University;Full-Stack+Developer;AI+Integration+Enthusiast;Building+Intelligent+Applications;Turning+Ideas+Into+Reality+%F0%9F%8C%8C" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](your-github-url)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/LeanKurtEscano)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeanKurtEscano)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leankurtescano@gmail.com)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
@@ -207,23 +207,23 @@ Brief description of what the project does and the problem it solves. Highlight 
 
 <br><br>
 
-<a href="https://github.com/your-username">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=FFFFFF&ring_color=A78BFA"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF"/>
+<a href="https://github.com/LeanKurtEscano">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeanKurtEscano&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=FFFFFF&ring_color=A78BFA"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeanKurtEscano&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF"/>
 </a>
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LeanKurtEscano&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA" alt="GitHub Streak"/>
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=FFFFFF&hide_border=true" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LeanKurtEscano&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=FFFFFF&hide_border=true" alt="Activity Graph"/>
 
 <br>
 
 ### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=LeanKurtEscano&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
 
 </div>
 
@@ -233,7 +233,7 @@ Brief description of what the project does and the problem it solves. Highlight 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&custom_title=Contribution%20Graph&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LeanKurtEscano&custom_title=Contribution%20Graph&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 
 </div>
 
@@ -267,10 +267,10 @@ Brief description of what the project does and the problem it solves. Highlight 
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-A78BFA?style=for-the-badge&logo=google-chrome&logoColor=white)](your-portfolio-url)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/LeanKurtEscano)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leankurtescano@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-A78BFA?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/LeanKurtEscano)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LeanKurtEscano)
 
 </div>
 
@@ -284,13 +284,13 @@ Brief description of what the project does and the problem it solves. Highlight 
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub Followers](https://img.shields.io/github/followers/your-username?style=for-the-badge&color=8B5CF6&labelColor=0D1117)
-![GitHub Stars](https://img.shields.io/github/stars/your-username?style=for-the-badge&color=A78BFA&labelColor=0D1117)
+![Profile Views](https://komarev.com/ghpvc/?username=LeanKurtEscano&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub Followers](https://img.shields.io/github/followers/LeanKurtEscano?style=for-the-badge&color=8B5CF6&labelColor=0D1117)
+![GitHub Stars](https://img.shields.io/github/stars/LeanKurtEscano?style=for-the-badge&color=A78BFA&labelColor=0D1117)
 
 <br>
 
-⭐️ From [your-username](https://github.com/your-username) with 💜
+⭐️ From [LeanKurtEscano](https://github.com/LeanKurtEscano) with 💜
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
