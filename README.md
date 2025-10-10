@@ -1,14 +1,16 @@
 <div align="center">
   
-# 👋 Hey there, I'm [Your Name]
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hey there, I'm Lean Kurt Escano
 
 ### 🚀 Building AI-powered experiences across web and mobile
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=435&lines=BSIT+Student+%40+Laguna+University;Full-Stack+Developer;AI+Integration+Enthusiast;Building+the+Future+%F0%9F%8C%8C" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=BSIT+Student+%40+Laguna+University;Full-Stack+Developer;AI+Integration+Enthusiast;Building+Intelligent+Applications;Turning+Ideas+Into+Reality+%F0%9F%8C%8C" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](your-github-url)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
 
@@ -16,25 +18,21 @@
 
 ## 🌌 About Me
 
-```typescript
-const developer = {
-  name: "Your Name",
-  education: "BSIT - System Development @ Laguna University",
-  location: "Calamba, Laguna, Philippines 🇵🇭",
-  passion: [
-    "Building intelligent applications",
-    "Integrating AI into real-world solutions",
-    "Creating seamless full-stack experiences"
-  ],
-  currentFocus: "AI-powered web & mobile development",
-  funFact: "I turn coffee into code and ideas into reality ☕💻"
-};
-```
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-🎓 **Student Developer** passionate about creating **data-driven**, **intelligent**, and **full-stack applications**  
-🔭 Currently exploring the intersection of **AI** and **modern web technologies**  
-💡 Love integrating **LLMs** and **machine learning** into practical solutions  
-🌱 Always learning, always building
+🎓 **BSIT - System Development** student at **Laguna University**  
+📍 Based in **Calamba, Laguna, Philippines** 🇵🇭  
+💡 Passionate about building **intelligent**, **data-driven**, and **full-stack applications**  
+🤖 Specialized in **integrating AI** into real-world web and mobile solutions  
+🔭 Currently exploring the intersection of **LLMs** and **modern web technologies**  
+🌱 Always learning, experimenting, and pushing boundaries  
+⚡ Fun fact: I turn **coffee into code** and **ideas into reality** ☕💻  
+
+**What I'm up to:**
+- 🚀 Building AI-powered applications that solve real problems
+- 🧠 Experimenting with LangChain, vector databases, and RAG systems
+- 📱 Creating seamless mobile experiences with React Native
+- 🎯 Contributing to open-source and learning every day
 
 ---
 
@@ -87,32 +85,89 @@ const developer = {
 
 <div align="center">
 
+### 🪐 My Technology Ecosystem
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🎨 Frontend Galaxy
+```yaml
+🌟 Core: React & React Native
+🎭 Styling: Tailwind CSS
+📱 Mobile: Expo
+🎪 State: Redux & Context API
+✨ Animations: Framer Motion
+```
+
+#### ⚙️ Backend Constellation
+```yaml
+🐍 Python: Django & FastAPI
+☕ Java: Spring Boot
+🔐 Auth: JWT & OAuth
+📡 APIs: RESTful & GraphQL
+🔄 Real-time: WebSockets
+```
+
+</td>
+<td width="50%" valign="top">
+
+#### 🤖 AI/ML Nebula
+```yaml
+🧠 Frameworks: LangChain
+🤗 Models: Hugging Face & Ollama
+💬 LLMs: GPT, Claude, Gemini
+🎯 Vector DB: Pinecone
+🔍 RAG: Retrieval Systems
+```
+
+#### 💾 Data Cosmos
+```yaml
+🐘 PostgreSQL: Primary DB
+🐬 MySQL: Legacy Support
+🔥 Firebase: Real-time Data
+⚡ Neon: Serverless Postgres
+🗃️ Vector: Pinecone
+```
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+### 🔮 Tech Stack Visualization
+
 ```mermaid
-mindmap
-  root((🚀 My Tech Stack))
-    🎨 Frontend
-      React
-      React Native
-      Tailwind CSS
-    ⚡ Backend
-      Django
-      Spring Boot
-      FastAPI
-    🤖 AI/ML
-      LangChain
-      Hugging Face
-      Ollama
-      LLMs
-    💾 Data
-      PostgreSQL
-      MySQL
-      Firebase
-      Pinecone
-    🛠️ DevOps
-      Git
-      Docker
-      Netlify
-      Render
+%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#8B5CF6', 'primaryTextColor':'#fff', 'primaryBorderColor':'#A78BFA', 'lineColor':'#C4B5FD', 'secondaryColor':'#7C3AED', 'tertiaryColor':'#6D28D9'}}}%%
+graph TB
+    A[🚀 Full Stack Development] --> B[🎨 Frontend]
+    A --> C[⚙️ Backend]
+    A --> D[🤖 AI/ML]
+    A --> E[💾 Data Layer]
+    
+    B --> B1[React/React Native]
+    B --> B2[Tailwind CSS]
+    B --> B3[Expo]
+    
+    C --> C1[Django]
+    C --> C2[Spring Boot]
+    C --> C3[FastAPI]
+    
+    D --> D1[LangChain]
+    D --> D2[Hugging Face]
+    D --> D3[LLMs Integration]
+    D --> D4[Vector Databases]
+    
+    E --> E1[PostgreSQL/MySQL]
+    E --> E2[Firebase]
+    E --> E3[Pinecone]
+    
+    style A fill:#8B5CF6,stroke:#A78BFA,stroke-width:3px
+    style B fill:#7C3AED,stroke:#A78BFA
+    style C fill:#7C3AED,stroke:#A78BFA
+    style D fill:#7C3AED,stroke:#A78BFA
+    style E fill:#7C3AED,stroke:#A78BFA
 ```
 
 </div>
@@ -126,6 +181,8 @@ mindmap
 ### 🌟 Project Highlights Coming Soon 🌟
 
 *Building something amazing? Stay tuned!*
+
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
 
 </div>
 
@@ -142,15 +199,56 @@ Brief description of what the project does and the problem it solves. Highlight 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=FFFFFF)
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF)
+<br><br>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA)
+<a href="https://github.com/your-username">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=FFFFFF&ring_color=A78BFA"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF"/>
+</a>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA" alt="GitHub Streak"/>
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=FFFFFF&hide_border=true" alt="Activity Graph"/>
+
+<br>
+
+### 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&custom_title=Contribution%20Graph&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+
+| 🌱 Learning | 🔨 Building | 🎯 Goals |
+|-------------|-------------|----------|
+| Advanced RAG Systems | AI-Powered Apps | Contribute to Open Source |
+| LangChain Mastery | Mobile Development | Build Production Apps |
+| System Design | Full-Stack Projects | Master AI Integration |
+| DevOps Practices | Portfolio Website | Land Tech Internship |
 
 </div>
 
@@ -160,12 +258,19 @@ Brief description of what the project does and the problem it solves. Highlight 
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+<br><br>
+
 💼 Open to **collaborations**, **internships**, and **freelance opportunities**  
 🌟 Let's build something **extraordinary** together!
+
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
 [![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-A78BFA?style=for-the-badge&logo=google-chrome&logoColor=white)](your-portfolio-url)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
 
 </div>
 
@@ -173,10 +278,20 @@ Brief description of what the project does and the problem it solves. Highlight 
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000">
+
 ### 💭 *"The only way to do great work is to love what you do."* — Steve Jobs
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blueviolet&style=for-the-badge)
+<br>
 
-⭐️ From [your-username](https://github.com/your-username)
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub Followers](https://img.shields.io/github/followers/your-username?style=for-the-badge&color=8B5CF6&labelColor=0D1117)
+![GitHub Stars](https://img.shields.io/github/stars/your-username?style=for-the-badge&color=A78BFA&labelColor=0D1117)
+
+<br>
+
+⭐️ From [your-username](https://github.com/your-username) with 💜
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 </div>
