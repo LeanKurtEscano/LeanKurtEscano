@@ -94,8 +94,6 @@
 
 ### 🪐 My Technology Ecosystem
 
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -179,7 +177,6 @@ graph TB
     style E fill:#7C3AED,stroke:#A78BFA
 ```
 
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
 
 </div>
 
@@ -188,8 +185,6 @@ graph TB
 ## 🚀 Featured Projects
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
 
 ### 🌟 Project Highlights Coming Soon 🌟
 
@@ -241,21 +236,6 @@ Brief description of what the project does and the problem it solves. Highlight 
 
 </div>
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeanKurtEscano/LeanKurtEscano/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeanKurtEscano/LeanKurtEscano/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LeanKurtEscano/LeanKurtEscano/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
 
 ## 📫 Let's Connect
 
