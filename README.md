@@ -21,7 +21,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 🎓 **BSIT - System Development** student at **Laguna University**  
-📍 Based in **Santa Maria, Laguna, Philippines** 🇵🇭  
+📍 Based in **Calamba, Laguna, Philippines** 🇵🇭  
 💡 Passionate about building **intelligent**, **data-driven**, and **full-stack applications**  
 🤖 Specialized in **integrating AI** into real-world web and mobile solutions  
 🔭 Currently exploring the intersection of **LLMs** and **modern web technologies**  
@@ -30,9 +30,9 @@
 
 **What I'm up to:**
 - 🚀 Building AI-powered applications that solve real problems
-- 🧠 Experimenting with LangChain, vector databases, and RAG systems and other AI Tools
-- 📱 Creating seamless mobile experiences 
-- 🎯 learning every day
+- 🧠 Experimenting with LangChain, vector databases, and RAG systems
+- 📱 Creating seamless mobile experiences with React Native
+- 🎯 Contributing to open-source and learning every day
 
 <br clear="right"/>
 
