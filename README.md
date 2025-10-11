@@ -36,13 +36,13 @@
 
 <br clear="right"/>
 
-
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="500">
+</div>
 
 ---
 
 ## 🛠️ Tech Stack
-
-
 
 ### 💻 **Programming Languages**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -56,6 +56,8 @@
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 
 ### ⚙️ **Backend Development**
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -85,7 +87,6 @@
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-
 ---
 
 ## 🌠 Tech Universe
@@ -103,7 +104,8 @@
 🌟 Core: React & React Native
 🎭 Styling: Tailwind CSS
 📱 Mobile: Expo
-🎪 State: Redux & Context API
+🎪 State: Zustand & Context API
+🔄 Data Fetching: TanStack Query
 ✨ Animations: Framer Motion
 ```
 
@@ -141,7 +143,7 @@
 </tr>
 </table>
 
-
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 ### 🔮 Tech Stack Visualization
 
@@ -177,7 +179,6 @@ graph TB
     style E fill:#7C3AED,stroke:#A78BFA
 ```
 
-
 </div>
 
 ---
@@ -189,8 +190,6 @@ graph TB
 ### 🌟 Project Highlights Coming Soon 🌟
 
 *Building something amazing? Stay tuned!*
-
-
 
 </div>
 
@@ -211,7 +210,7 @@ Brief description of what the project does and the problem it solves. Highlight 
 
 <div align="center">
 
-<br><br>
+<br>
 
 <a href="https://github.com/LeanKurtEscano">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeanKurtEscano&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=FFFFFF&ring_color=A78BFA"/>
@@ -230,16 +229,29 @@ Brief description of what the project does and the problem it solves. Highlight 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeanKurtEscano&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=FFFFFF&hide_border=true" alt="Activity Graph"/>
 
-<br>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeanKurtEscano/LeanKurtEscano/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeanKurtEscano/LeanKurtEscano/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LeanKurtEscano/LeanKurtEscano/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
+---
 
 ## 📫 Let's Connect
 
 <div align="center">
 
-
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 <br><br>
 
@@ -253,7 +265,7 @@ Brief description of what the project does and the problem it solves. Highlight 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-A78BFA?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/LeanKurtEscano)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LeanKurtEscano)
 
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
 
@@ -261,7 +273,7 @@ Brief description of what the project does and the problem it solves. Highlight 
 
 <div align="center">
 
-
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000">
 
 ### 💭 *"The only way to do great work is to love what you do."* — Steve Jobs
 
