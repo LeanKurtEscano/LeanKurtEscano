@@ -4,7 +4,7 @@
 
 ### 🚀 Building AI-powered experiences across web and mobile
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=BSIT+Student+%40+Laguna+University;Full-Stack+Developer;AI+Integration+Enthusiast;Building+Intelligent+Applications;Turning+Ideas+Into+Reality+%F0%9F%8C%8C" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=BSIT+Student+%40+Laguna+University;Full-Stack+Developer;AI+Integration+Enthusiast;Building+Intelligent+Applications;Turning+Ideas+Into+Reality+🌌" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/LeanKurtEscano)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeanKurtEscano)
@@ -34,9 +34,19 @@
 - 📱 Creating seamless mobile experiences with React Native
 - 🎯 Contributing to open-source and learning every day
 
+<br clear="right"/>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="500">
+</div>
+
 ---
 
 ## 🛠️ Tech Stack
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+</div>
 
 ### 💻 **Programming Languages**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -79,6 +89,10 @@
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+</div>
+
 ---
 
 ## 🌠 Tech Universe
@@ -86,6 +100,8 @@
 <div align="center">
 
 ### 🪐 My Technology Ecosystem
+
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
 
 <table>
 <tr>
@@ -170,6 +186,8 @@ graph TB
     style E fill:#7C3AED,stroke:#A78BFA
 ```
 
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+
 </div>
 
 ---
@@ -178,11 +196,13 @@ graph TB
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+
 ### 🌟 Project Highlights Coming Soon 🌟
 
 *Building something amazing? Stay tuned!*
 
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500">
 
 </div>
 
@@ -218,17 +238,29 @@ Brief description of what the project does and the problem it solves. Highlight 
 
 <br>
 
+<img src="https://github-profile-trophy.vercel.app/?username=LeanKurtEscano&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+
+<br>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeanKurtEscano&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=FFFFFF&hide_border=true" alt="Activity Graph"/>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100">
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LeanKurtEscano&custom_title=Contribution%20Graph&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeanKurtEscano/LeanKurtEscano/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeanKurtEscano/LeanKurtEscano/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LeanKurtEscano/LeanKurtEscano/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -252,6 +284,8 @@ Brief description of what the project does and the problem it solves. Highlight 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-A78BFA?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/LeanKurtEscano)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LeanKurtEscano)
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
 </div>
 
 ---
@@ -269,6 +303,8 @@ Brief description of what the project does and the problem it solves. Highlight 
 ![GitHub Stars](https://img.shields.io/github/stars/LeanKurtEscano?style=for-the-badge&color=A78BFA&labelColor=0D1117)
 
 <br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212257456-5738f9fc-a2e0-49a8-96c3-5cccbc95be3e.gif" width="100">
 
 ⭐️ From [LeanKurtEscano](https://github.com/LeanKurtEscano) with 💜
 
