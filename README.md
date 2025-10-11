@@ -36,17 +36,13 @@
 
 <br clear="right"/>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="500">
-</div>
+
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-</div>
+
 
 ### 💻 **Programming Languages**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -89,9 +85,6 @@
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-</div>
 
 ---
 
@@ -150,7 +143,7 @@
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
 
 ### 🔮 Tech Stack Visualization
 
@@ -202,7 +195,7 @@ graph TB
 
 *Building something amazing? Stay tuned!*
 
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500">
+
 
 </div>
 
@@ -222,8 +215,6 @@ Brief description of what the project does and the problem it solves. Highlight 
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
 
 <br><br>
 
@@ -270,7 +261,7 @@ Brief description of what the project does and the problem it solves. Highlight 
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
 
 <br><br>
 
@@ -284,7 +275,7 @@ Brief description of what the project does and the problem it solves. Highlight 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-A78BFA?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/LeanKurtEscano)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LeanKurtEscano)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
 
 </div>
 
@@ -292,7 +283,7 @@ Brief description of what the project does and the problem it solves. Highlight 
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000">
+
 
 ### 💭 *"The only way to do great work is to love what you do."* — Steve Jobs
 
