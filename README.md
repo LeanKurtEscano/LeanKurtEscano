@@ -31,7 +31,7 @@
 **What I'm up to:**
 - 🚀 Building AI-powered applications that solve real problems
 - 🧠 Experimenting with LangChain, vector databases, and RAG systems and other AI Tools
-- 📱 Creating seamless mobile experiences
+- 📱 Creating seamless Web and Mobile experiences
 - 🎯 learning every day
 
 <br clear="right"/>
@@ -71,7 +71,6 @@
 ### 🗄️ **Databases**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Neon](https://img.shields.io/badge/Neon-00E699?style=for-the-badge&logo=neon&logoColor=white)
 
 ### 🧰 **Tools & Platforms**
@@ -81,6 +80,7 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
