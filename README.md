@@ -16,23 +16,107 @@
 
 ---
 
-## 🌌 About Me
+## 🌌 About Me (Software Development Focus)
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+🎓 BSIT – System Development student at Laguna University
+📍 Santa Maria, Laguna, Philippines 🇵🇭
 
-🎓 **BSIT - System Development** student at **Laguna University**  
-📍 Based in **Santa Maria, Laguna, Philippines** 🇵🇭  
-💡 Passionate about building **intelligent**, **data-driven**, and **full-stack applications**  
-🤖 Specialized in **integrating AI** into real-world web and mobile solutions  
-🔭 Currently exploring the intersection of **LLMs** and **modern web technologies**  
-🌱 Always learning, experimenting, and pushing boundaries  
-⚡ Fun fact: I turn **coffee into code** and **ideas into reality** ☕💻  
+I am a software developer with a strong focus on building scalable, maintainable, and real-world applications across web and mobile platforms. My core strength lies in full-stack development, where I design clean user interfaces, build robust backend systems, and integrate databases and APIs that power end‑to‑end solutions.
 
-**What I'm up to:**
-- 🚀 Building AI-powered applications that solve real problems
-- 🧠 Experimenting with LangChain, vector databases, and RAG systems and other AI Tools
-- 📱 Creating seamless Web and Mobile experiences
-- 🎯 learning every day
+I enjoy turning complex requirements into well-structured systems, applying solid software engineering principles, and writing code that is readable, testable, and production‑ready. I also actively integrate AI features into applications—not as gimmicks, but as tools that enhance usability, automation, and decision‑making.
+
+🔧 What drives me as a developer:
+
+Designing clean architectures and reusable components
+
+Building API-driven systems and data‑centric applications
+
+Applying backend logic, validation, and security best practices
+
+Continuously improving through projects, experimentation, and learning
+
+⚡ Fun fact: I enjoy refining systems just as much as building them—optimization and refactoring are part of the fun ☕💻
+
+🧩 Core Skills
+🧑‍💻 Software Development
+
+Object-Oriented Programming (OOP)
+
+Modular & Scalable Application Design
+
+RESTful API Development
+
+Authentication & Authorization (JWT, OAuth)
+
+MVC & Layered Architecture
+
+Version Control & Collaborative Development (Git/GitHub)
+
+🌐 Full-Stack Web Development
+
+Frontend
+
+React & TypeScript (Vite)
+
+Tailwind CSS (responsive & utility-first design)
+
+State Management (Zustand, Context API)
+
+Data Fetching & Caching (TanStack Query)
+
+UI/UX implementation from design to code
+
+Backend
+
+Django & Django REST Framework
+
+FastAPI (high-performance APIs)
+
+Spring Boot (Java-based backend services)
+
+API validation, error handling, and middleware
+
+Background tasks & async processing
+
+🗄️ Database & Data Management
+
+Relational Databases: PostgreSQL, MySQL
+
+Database Design & Normalization
+
+Writing optimized SQL queries
+
+ORM usage (Django ORM, SQLAlchemy)
+
+Serverless & managed databases (Neon)
+
+Data integrity, constraints, and migrations
+
+🤖 AI Integration (Applied)
+
+Integrating LLMs into applications (GPT, Claude, Gemini)
+
+LangChain for AI workflows
+
+Retrieval-Augmented Generation (RAG)
+
+Vector databases (Pinecone)
+
+AI-powered data analysis and automation features
+
+🛠️ Tools & Engineering Practices
+
+Docker (containerized development)
+
+Postman & API testing tools
+
+CI-friendly project structuring
+
+Deployment with Netlify & Render
+
+Environment configuration & secrets management
+
+🎯 Focus: Becoming a well-rounded software engineer with strong fundamentals in backend systems, full-stack development, and practical AI integration.
 
 <br clear="right"/>
 ---
